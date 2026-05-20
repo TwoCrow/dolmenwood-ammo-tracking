@@ -9,7 +9,7 @@ A FoundryVTT module that adds automatic ammunition tracking for ranged weapons i
 
 ## Installation
 
-### Via Manifest URL (recommended)
+### Via Manifest URL
 
 1. In FoundryVTT, open Configuration > Add-on Modules > Install Module.
 2. Paste the manifest URL into the Manifest URL field at the bottom of the dialog:
