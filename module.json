@@ -1,0 +1,12 @@
+{
+  "id": "dolmenwood-ammo-tracking",
+  "title": "Dolmenwood: Ammo Tracking",
+  "description": "Adds ammunition tracking for ranged weapons. Tag gear items as ammo, link weapons to their ammo type, and ranged attacks will automatically consume ammo.",
+  "version": "1.0.0",
+  "compatibility": { "minimum": "12", "verified": "13" },
+  "relationships": {
+    "systems": [{ "id": "dolmenwood", "compatibility": { "minimum": "1.9.5" } }]
+  },
+  "esmodules": ["scripts/main.mjs"],
+  "authors": [{ "name": "TwoCrow" }]
+}
